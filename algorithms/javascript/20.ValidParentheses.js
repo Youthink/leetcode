@@ -55,6 +55,6 @@ var isValid = function(s) {
             }
         }
     }
-    
+
     return result.length === 0;
 };
