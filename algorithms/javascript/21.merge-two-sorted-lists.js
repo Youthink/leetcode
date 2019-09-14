@@ -22,6 +22,13 @@ const l55 = new ListNode(4);
 const l66 = new ListNode(3, l55);
 const l77 = new ListNode(1, l66);
 
+/*
+ 时间复杂度 O(n + m)
+
+ 空间复杂度 O(n + m)
+
+ */
+
 const mergeTwoLists = (l1, l2) => {
   if(!l1){
     return l2;

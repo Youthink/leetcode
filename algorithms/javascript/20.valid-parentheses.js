@@ -10,6 +10,11 @@
 
 /*
  我写的第一版
+
+ 时间复杂度 O(n)
+
+ 空间复杂度 O(n)
+
  */
 
 let isValid = (s) => {
@@ -35,6 +40,11 @@ let isValid = (s) => {
 
 /*
    参考其他人的，加以优化
+
+   时间复杂度 O(n)
+
+   空间复杂度 O(1)
+
  */
 
 var isValid = function(s) {
