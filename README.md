@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
+|136| [Single Number](https://leetcode-cn.com/problems/single-number/) | [JavaScript](./algorithms/javascript/136.single-number.js) | Easy| [中文](https://leetcode-cn.com/problems/single-number/solution/hua-jie-suan-fa-136-zhi-chu-xian-yi-ci-de-shu-zi-b/)|
 |70| [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](./algorithms/javascript/70.climbing-stairs.js) | Easy| [中文](https://leetcode-cn.com/problems/climbing-stairs/solution/pa-lou-ti-by-leetcode/)|
 |53| [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JavaScript](./algorithms/javascript/53.maximum-subarray.js) | Easy| [中文](https://leetcode-cn.com/problems/maximum-subarray/solution/hua-jie-suan-fa-53-zui-da-zi-xu-he-by-guanpengchn/)|
 |21| [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [JavaScript](./algorithms/javascript/21.merge-two-sorted-lists.js) | Easy| [中文](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/hua-jie-suan-fa-21-he-bing-liang-ge-you-xu-lian-bi/)|
