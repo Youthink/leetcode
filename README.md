@@ -3,6 +3,7 @@
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
 |136| [Single Number](https://leetcode-cn.com/problems/single-number/) | [JavaScript](./algorithms/javascript/136.single-number.js) | Easy| [中文](https://leetcode-cn.com/problems/single-number/solution/hua-jie-suan-fa-136-zhi-chu-xian-yi-ci-de-shu-zi-b/)|
+|104| [Maximum Depth Of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](./algorithms/javascript/104.maximum-depth-of-binary-tree.js) | Easy| [中文](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/hua-jie-suan-fa-104-er-cha-shu-de-zui-da-shen-du-b/)|
 |101| [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [JavaScript](./algorithms/javascript/101.symmetric-tree.js) | Easy| [中文](https://leetcode-cn.com/problems/symmetric-tree/solution/hua-jie-suan-fa-101-dui-cheng-er-cha-shu-by-guanpe/)|
 |70| [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JavaScript](./algorithms/javascript/70.climbing-stairs.js) | Easy| [中文](https://leetcode-cn.com/problems/climbing-stairs/solution/pa-lou-ti-by-leetcode/)|
 |53| [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JavaScript](./algorithms/javascript/53.maximum-subarray.js) | Easy| [中文](https://leetcode-cn.com/problems/maximum-subarray/solution/hua-jie-suan-fa-53-zui-da-zi-xu-he-by-guanpengchn/)|
