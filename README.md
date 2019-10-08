@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
+|141| [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [JavaScript](./algorithms/javascript/141.linked-list-cycle.js) | Easy| [中文](https://leetcode-cn.com/problems/linked-list-cycle/solution/javascript-huan-xing-lian-biao-by-rhinoc/)|
 |136| [Single Number](https://leetcode-cn.com/problems/single-number/) | [JavaScript](./algorithms/javascript/136.single-number.js) | Easy| [中文](https://leetcode-cn.com/problems/single-number/solution/hua-jie-suan-fa-136-zhi-chu-xian-yi-ci-de-shu-zi-b/)|
 |121| [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./algorithms/javascript/121.best-time-to-buy-and-sell-stock.js) | Easy| [中文](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-by-leetcode)|
 |104| [Maximum Depth Of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JavaScript](./algorithms/javascript/104.maximum-depth-of-binary-tree.js) | Easy| [中文](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/hua-jie-suan-fa-104-er-cha-shu-de-zui-da-shen-du-b/)|
