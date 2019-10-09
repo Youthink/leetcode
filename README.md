@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
+|155| [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JavaScript](./algorithms/javascript/155.min-stack.js) | Easy| [中文](https://leetcode-cn.com/problems/min-stack/solution/javascript-zui-xiao-zhan-by-rhinoc/)|
 |141| [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [JavaScript](./algorithms/javascript/141.linked-list-cycle.js) | Easy| [中文](https://leetcode-cn.com/problems/linked-list-cycle/solution/javascript-huan-xing-lian-biao-by-rhinoc/)|
 |136| [Single Number](https://leetcode-cn.com/problems/single-number/) | [JavaScript](./algorithms/javascript/136.single-number.js) | Easy| [中文](https://leetcode-cn.com/problems/single-number/solution/hua-jie-suan-fa-136-zhi-chu-xian-yi-ci-de-shu-zi-b/)|
 |121| [Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./algorithms/javascript/121.best-time-to-buy-and-sell-stock.js) | Easy| [中文](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-by-leetcode)|
