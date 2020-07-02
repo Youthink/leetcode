@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
+|198| [House Robber](https://leetcode-cn.com/problems/house-robber/) | [JavaScript](./algorithms/javascript/198.house-robber.js) | Easy| [中文](https://leetcode-cn.com/problems/house-robber/solution/hua-jie-suan-fa-198-da-jia-jie-she-by-guanpengchn/)|
 |169| [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](./algorithms/javascript/169.majority-element.js) | Easy| [中文](https://leetcode-cn.com/problems/majority-element/solution/qiu-zhong-shu-by-leetcode-2/)|
 |160| [Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [JavaScript](./algorithms/javascript/160.intersection-of-two-linked-lists.js) | Easy| [中文](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/javascriptxiang-jiao-lian-biao-tu-jie-shuang-zhi-z/)|
 |155| [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JavaScript](./algorithms/javascript/155.min-stack.js) | Easy| [中文](https://leetcode-cn.com/problems/min-stack/solution/javascript-zui-xiao-zhan-by-rhinoc/)|
