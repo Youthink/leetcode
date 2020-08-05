@@ -2,6 +2,8 @@
 
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
+|283| [move-zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [JavaScript](./algorithms/javascript/283.move-zeroes.js) | Easy| [中文]()|
+|226| [invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [JavaScript](./algorithms/javascript/226.invert-binary-tree.js) | Easy| [中文]()|
 |206| [reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [JavaScript](./algorithms/javascript/206.reverse-linked-list.js) | Easy| [中文]()|
 |198| [House Robber](https://leetcode-cn.com/problems/house-robber/) | [JavaScript](./algorithms/javascript/198.house-robber.js) | Easy| [中文](https://leetcode-cn.com/problems/house-robber/solution/hua-jie-suan-fa-198-da-jia-jie-she-by-guanpengchn/)|
 |169| [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JavaScript](./algorithms/javascript/169.majority-element.js) | Easy| [中文](https://leetcode-cn.com/problems/majority-element/solution/qiu-zhong-shu-by-leetcode-2/)|
