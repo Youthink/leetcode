@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|answer|
 |--|----|--------|---------|-------|
+|344| [reverse-string](https://leetcode-cn.com/problems/reverse-string/) | [JavaScript](./algorithms/javascript/344.reverse-string.js) | Easy| [中文](https://leetcode-cn.com/problems/reverse-string/solution/yong-es6-jie-gou-fu-zhi-zhi-jie-fan-zhuan-wei-zhi-/)|
 |283| [move-zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [JavaScript](./algorithms/javascript/283.move-zeroes.js) | Easy| [中文]()|
 |226| [invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [JavaScript](./algorithms/javascript/226.invert-binary-tree.js) | Easy| [中文]()|
 |206| [reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [JavaScript](./algorithms/javascript/206.reverse-linked-list.js) | Easy| [中文]()|
